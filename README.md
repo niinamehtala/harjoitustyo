@@ -4,7 +4,7 @@
 * [Break Room](#break-room)
   * [Sections](#sections)
     * [1. Break Challenge](#break-challenge)
-    * [2. Rock paper scissors]
+    * [2. Rock paper scissors](#rock-paper-scissors)
     * [3. Historical events on this day](#historical-events-on-this-day)
   * [How to use](#how-to-use)
   * [Technologies used](#technologies-used)
