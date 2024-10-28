@@ -20,18 +20,18 @@ Break Room is a simple web application designed to offer users short, engaging a
 ### Break Challenge
 
 This section is designed to encourage users to complete a challenge that is good for physical or mental well-being. When the user clicks a button, a random challenge is selected from a predefined list. The challenges are simple tasks like:
-•	"Drink a glass of water"
-•	"Take a 5-minute walk"
-•	"Stretch for 3 minutes"
+*	"Drink a glass of water"
+*	"Take a 5-minute walk"
+*	"Stretch for 3 minutes"
 The challenges can be customized.
 
 ### Rock paper scissors
 
 Rock paper scissors is a game that users can play against the computer. The user selects either rock, paper, or scissors, and the computer randomly chooses an option as well.
 Rules:
-•	Rock beats Scissors
-•	Scissors beats Paper
-•	Paper beats Rock
+*	Rock beats Scissors
+*	Scissors beats Paper
+*	Paper beats Rock
 
 ### Historical events on this day
 
