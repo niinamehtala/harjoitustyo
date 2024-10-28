@@ -13,7 +13,7 @@
 
 # Break Room
 
-Break Room is a simple web application designed to offer users short, engaging activities during work breaks. It consists of three main sections: Historical Events on This Day, Rock paper scissors -game and the Break Challenge. The purpose of the app is to provide a refreshing pause during the workday, combining fun games, interesting facts, and health promoting challenges.
+Break Room is a simple web application designed to offer users short, engaging activities during work breaks. It consists of three main sections: [Break Challenge](#break-challenge), [Rock paper scissors](#rock-paper-scissors) -game and [Historical events on this day](#historical-events-on-this-day). The purpose of the app is to provide a refreshing pause during the workday, combining fun games, interesting facts, and health promoting challenges.
 
 ## Sections
 
