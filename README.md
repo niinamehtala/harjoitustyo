@@ -53,7 +53,21 @@ This section fetches historical events from Wikipedia based on the current date.
 
 ## Installation and setup
 
----
+1. Clone the repository:
+```shell
+git clone https://github.com/niinamehtala/harjoitustyo.git
+```
+
+2. Navigate to the project folder:
+```shell
+cd harjoitustyo
+```
+
+3. Open the index.html file in your browser to start using the Break Room. For example:
+```shell
+open -a "Google Chrome" index.html
+```
+Alternatively, you can drag and drop the `index.html` file into your browser window.
 
 ## Future improvements
 
