@@ -13,13 +13,13 @@
 
 # Break Room
 
-Break Room is a simple web application designed to offer users short, engaging activities during work breaks. It consists of three main sections: Historical Events on This Day, Rock paper scissors -game, and the Break Challenge. The purpose of the app is to provide a refreshing pause during the workday, combining fun games, interesting facts, and random challenges.
+Break Room is a simple web application designed to offer users short, engaging activities during work breaks. It consists of three main sections: Historical Events on This Day, Rock paper scissors -game and the Break Challenge. The purpose of the app is to provide a refreshing pause during the workday, combining fun games, interesting facts, and health promoting challenges.
 
 ## Sections
 
 ### 1. Break Challenge
 
-This section is designed to encourage users to step away from the screen and complete a fun or healthy challenge. When the user clicks a button, a random challenge is selected from a predefined list. The challenges are simple tasks like:
+This section is designed to encourage users to complete a challenge that is good for physical or mental well-being. When the user clicks a button, a random challenge is selected from a predefined list. The challenges are simple tasks like:
 •	"Drink a glass of water"
 •	"Take a 5-minute walk"
 •	"Stretch for 3 minutes"
@@ -53,19 +53,10 @@ This section fetches historical events from Wikipedia based on the current date.
 
 ## Installation and setup
 
-Installation and Setup
-1.	Clone the repository:
-bash
-git clone https://github.com/your-username/break-room.git
-2.	Navigate to the project folder:
-bash
-cd break-room
-3.	Open the index.html file in your browser to start using the Break Room.
+---
 
 ## Future improvements
 
 •	Adding more games and activities to expand the range of break options.
 •	Including user preferences to tailor the Break Challenge tasks to specific interests.
-•	Implementing a scoring or tracking system for the Rock-Paper-Scissors game.
-•	Improving the mobile responsiveness of the site.
 
