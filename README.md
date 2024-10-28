@@ -3,9 +3,9 @@
 * [Table of Contents](#table-of-contents)
 * [Break Room](#break-room)
   * [Sections](#sections)
-    * [1. Break Challenge](#break-challenge)
-    * [2. Rock paper scissors](#rock-paper-scissors)
-    * [3. Historical events on this day](#historical-events-on-this-day)
+    * [Break Challenge](#break-challenge)
+    * [Rock paper scissors](#rock-paper-scissors)
+    * [Historical events on this day](#historical-events-on-this-day)
   * [How to use](#how-to-use)
   * [Technologies used](#technologies-used)
   * [Installation and setup](#installation-and-setup)
@@ -17,7 +17,7 @@ Break Room is a simple web application designed to offer users short, engaging a
 
 ## Sections
 
-### 1. Break Challenge
+### Break Challenge
 
 This section is designed to encourage users to complete a challenge that is good for physical or mental well-being. When the user clicks a button, a random challenge is selected from a predefined list. The challenges are simple tasks like:
 •	"Drink a glass of water"
@@ -25,7 +25,7 @@ This section is designed to encourage users to complete a challenge that is good
 •	"Stretch for 3 minutes"
 The challenges can be customized.
 
-### 2. Rock paper scissors
+### Rock paper scissors
 
 Rock paper scissors is a game that users can play against the computer. The user selects either rock, paper, or scissors, and the computer randomly chooses an option as well.
 Rules:
@@ -33,7 +33,7 @@ Rules:
 •	Scissors beats Paper
 •	Paper beats Rock
 
-### 3. Historical events on this day
+### Historical events on this day
 
 This section fetches historical events from Wikipedia based on the current date. When visiting the page, users can learn about historical events that happened on the same day in history. The information is fetched from Wikipedia's open API.
 
