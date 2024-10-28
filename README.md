@@ -20,18 +20,18 @@ Break Room is a simple web application designed to offer users short, engaging a
 ### 1. Break Challenge
 
 This section is designed to encourage users to complete a challenge that is good for physical or mental well-being. When the user clicks a button, a random challenge is selected from a predefined list. The challenges are simple tasks like:
-* "Drink a glass of water"
-* "Take a 5-minute walk"
-*	"Stretch for 3 minutes"
+•	"Drink a glass of water"
+•	"Take a 5-minute walk"
+•	"Stretch for 3 minutes"
 The challenges can be customized.
 
 ### 2. Rock paper scissors
 
 Rock paper scissors is a game that users can play against the computer. The user selects either rock, paper, or scissors, and the computer randomly chooses an option as well.
 Rules:
-* Rock beats Scissors
-* Scissors beats Paper
-* Paper beats Rock
+•	Rock beats Scissors
+•	Scissors beats Paper
+•	Paper beats Rock
 
 ### 3. Historical events on this day
 
@@ -39,31 +39,31 @@ This section fetches historical events from Wikipedia based on the current date.
 
 ## How to use
 
-1.	Home Page: From the homepage, users can select one of the three activities
-2.	Historical Events: Historical Events section shows events from Wikipedia
-3.	Rock paper scissors: Choose your option by clicking the image, and see if you can beat the computer
-4.	Break Challenge: Click the button to get a random break challenge to complete during your break
+1.	**Home Page**: From the homepage, users can select one of the three activities
+2.	**Historical events on this day**: Section shows _On this day_ -events from Wikipedia when visiting the page
+3.	**Rock paper scissors**: Choose your option by clicking the image, and see if you can beat the computer
+4.	**Break Challenge**: Click the button to get a random break challenge to complete during your break
 
 ## Technologies used
 
-* HTML: Used for the structure of the web pages
-* CSS: For styling the different elements
-* JavaScript: Handles the functionality of fetching data from the Wikipedia API, the game logic for Rock paper scissors, and randomizing the Break Challenge tasks
-* Wikipedia API: Fetches the "on this day" historical events
+*	**HTML**: Used for the structure of the web pages
+*	**CSS**: For styling the different elements
+*	**JavaScript**: Handles the functionality of fetching data from the Wikipedia API, the game logic for Rock paper scissors, and randomizing the Break Challenge tasks
+*	**Wikipedia API**: Fetches the "on this day" historical events
 
 ## Installation and setup
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```shell
 git clone https://github.com/niinamehtala/harjoitustyo.git
 ```
 
-2. Navigate to the project folder:
+2. **Navigate to the project folder:**
 ```shell
 cd harjoitustyo
 ```
 
-3. Open the `index.html` file in your browser to start using the Break Room. For example:
+3. **Open the `index.html` file in your browser to start using the Break Room. For example:**
 ```shell
 open -a "Google Chrome" index.html
 ```
@@ -71,6 +71,5 @@ Alternatively, you can drag and drop the `index.html` file into your browser win
 
 ## Future improvements
 
-•	Adding more games and activities to expand the range of break options.
-•	Including user preferences to tailor the Break Challenge tasks to specific interests.
-
+*	Adding more games and activities to expand the range of break options.
+*	Including user preferences to tailor the Break Challenge tasks to specific interests.
