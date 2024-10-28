@@ -20,18 +20,18 @@ Break Room is a simple web application designed to offer users short, engaging a
 ### 1. Break Challenge
 
 This section is designed to encourage users to complete a challenge that is good for physical or mental well-being. When the user clicks a button, a random challenge is selected from a predefined list. The challenges are simple tasks like:
-•	"Drink a glass of water"
-•	"Take a 5-minute walk"
-•	"Stretch for 3 minutes"
+* "Drink a glass of water"
+* "Take a 5-minute walk"
+*	"Stretch for 3 minutes"
 The challenges can be customized.
 
 ### 2. Rock paper scissors
 
 Rock paper scissors is a game that users can play against the computer. The user selects either rock, paper, or scissors, and the computer randomly chooses an option as well.
 Rules:
-•	Rock beats Scissors
-•	Scissors beats Paper
-•	Paper beats Rock
+* Rock beats Scissors
+* Scissors beats Paper
+* Paper beats Rock
 
 ### 3. Historical events on this day
 
@@ -46,10 +46,10 @@ This section fetches historical events from Wikipedia based on the current date.
 
 ## Technologies used
 
-•	HTML: Used for the structure of the web pages
-•	CSS: For styling the different elements
-•	JavaScript: Handles the functionality of fetching data from the Wikipedia API, the game logic for Rock paper scissors, and randomizing the Break Challenge tasks
-•	Wikipedia API: Fetches the "on this day" historical events
+* HTML: Used for the structure of the web pages
+* CSS: For styling the different elements
+* JavaScript: Handles the functionality of fetching data from the Wikipedia API, the game logic for Rock paper scissors, and randomizing the Break Challenge tasks
+* Wikipedia API: Fetches the "on this day" historical events
 
 ## Installation and setup
 
