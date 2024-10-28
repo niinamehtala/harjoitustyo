@@ -63,7 +63,7 @@ git clone https://github.com/niinamehtala/harjoitustyo.git
 cd harjoitustyo
 ```
 
-3. Open the index.html file in your browser to start using the Break Room. For example:
+3. Open the `index.html` file in your browser to start using the Break Room. For example:
 ```shell
 open -a "Google Chrome" index.html
 ```
